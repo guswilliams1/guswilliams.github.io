@@ -1,7 +1,8 @@
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Kobe ',
+        photo: "https://mk0slamonlinensgt39k.kinstacdn.com/wp-content/uploads/2018/02/kobe_lakers_free_agents.jpg",
+        
 		scores: [
 			'1',
 			'5',
@@ -16,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Shaq',
+		photo: "https://salutemag.com/wp-content/uploads/2016/04/Shaq.jpg",
 		scores: [
 			'2',
 			'4',
@@ -32,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Hakeem',
+		photo: "http://static2.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/s3/2013/08/hakeem_olajuwon1_gbetm_300x300.jpg",
 		scores: [
 			'4',
 			'3',
@@ -48,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Timmy',
+		photo: 'https://www.gannett-cdn.com/-mm-/b2cfd16567bd0f5277566337ef769ce99cab918f/c=222-111-2758-2018&r=x404&c=534x401/local/-/media/2016/07/11/USATODAY/USATODAY/636038294784773256-c02-refer-0512.jpg',
 		scores: [
 			'5',
 			'1',
@@ -64,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Gary',
+		photo: "https://mk0slamonlinensgt39k.kinstacdn.com/wp-content/uploads/2016/05/gp.jpg",
 		scores: [
 			'1',
 			'1',
@@ -80,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'John',
+		photo: 'http://i2.cdn.turner.com/nba/nba/history/legends/john-stockton/john-stockton.jpg',
 		scores: [
 			'1',
 			'1',
@@ -96,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Isaiah',
+		photo: 'https://i.cdn.turner.com/nba/nba/media/pistons/thomas_931014.jpg',
 		scores: [
 			'5',
 			'4',
@@ -112,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'Bill',
+		photo: 'http://www.chicagonow.com/chicago-tough/files/2011/06/bill-laimbeer-thumb-299x224-342650.jpg',
 		scores: [
 			'5',
 			'2',
@@ -128,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Latrell',
+		photo: 'https://na.rdcpix.com/2120883651/8ecb8b5c10a19ccbe1daba7bc38ec77cw-c318481xd-w685_h860_q80.jpg',
 		scores: [
 			'5',
 			'5',
@@ -144,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Dennis',
+		photo: 'https://marriedbiography.com/wp-content/uploads/2017/03/dennis-rodman-1.jpg',
 		scores: [
 			'1',
 			'1',

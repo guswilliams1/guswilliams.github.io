@@ -12,8 +12,6 @@ module.exports = function(app) {
 	app.post('/api/friends', function(req, res) {
 		
 		var userInput = req.body;
-		
-
 		var userResponses = userInput.scores;
 	
 		var matchName = '';
